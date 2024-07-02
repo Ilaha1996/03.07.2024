@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetSQL", "AdoNetSQL\AdoNetSQL.csproj", "{7B319C72-908B-4A60-B69E-1184F053B762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B319C72-908B-4A60-B69E-1184F053B762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B319C72-908B-4A60-B69E-1184F053B762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B319C72-908B-4A60-B69E-1184F053B762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B319C72-908B-4A60-B69E-1184F053B762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6052B00-C091-47B7-B7DF-57651BA15A62}
+	EndGlobalSection
+EndGlobal
